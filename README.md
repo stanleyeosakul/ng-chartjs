@@ -1,5 +1,5 @@
-# Angular Travelville
-This project is based off of the YouTube tutorial [Integrating Chart.js with Angular 5 with Data from an API](https://www.youtube.com/watch?v=RTzi5DS7On4) by *Gary Simon*.  This app has been updated using Angular 7.
+# Angular Charts.js
+This project is based off of the YouTube tutorial [Integrating Charts.js with Angular 5 with Data from an API](https://www.youtube.com/watch?v=RTzi5DS7On4) by *Gary Simon*.  This app has been updated using Angular 7.
 
 ## Versions Used
 * [Angular CLI](https://github.com/angular/angular-cli) v7.0.3
